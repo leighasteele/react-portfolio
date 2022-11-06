@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
   const styles = {
     div: {
-      padding: "10px",
+      padding: "60px",
       display: "flex",
       alignItems: "center",
       flexDirection: "column",
