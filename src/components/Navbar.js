@@ -2,11 +2,17 @@ import React from "react";
 
 export default function Navbar({ currentPage, handlePageChange }) {
   const styles = {
+    
     nav: {
       backgroundColor: "#696969",
+      display: "flex",
+      alignItems: "center",
+      flexDirection: "column",
     },
-    a: {
-      color: "#000000",
+    p: {
+      color: "white",
+      fontFamily: "Arial",
+      fontSize: "30px",
     },
   };
 
