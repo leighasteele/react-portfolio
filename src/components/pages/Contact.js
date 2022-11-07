@@ -7,6 +7,7 @@ export default function Contact() {
       display: "flex",
       alignItems: "center",
       flexDirection: "column",
+      
     },
     h1: {
       fontFamily: "Arial",

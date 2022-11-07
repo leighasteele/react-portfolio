@@ -5,6 +5,7 @@ export default function About() {
     section: {
       backgroundColor: "#303030",
       flexGrow: 1,
+      padding: "20px"
     },
     h1: {
       color: "white",
